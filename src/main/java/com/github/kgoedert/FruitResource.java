@@ -29,5 +29,4 @@ public class FruitResource {
         }
         return Response.ok(fruit).build();
     }
-
 }

@@ -23,3 +23,5 @@ http://localhost:8080/swagger-ui
 ```
 curl http://localhost:8080/openapi
 ```
+
+The post refering to this code is available [here](https://dev.to/kgoedert/jackson-readonly-properties-and-swagger-ui-3kfg).
